@@ -1,1 +1,2 @@
 # passwordValidation
+this is a simple project , password validation, with a predefined username and password,the user will log in to a to do list application, if the combination of username is correct , the user will have accesss to the main menu of the application, and if the credentials are false the user will get an error message.The application still in the devloping phase for more functionalities and features.
